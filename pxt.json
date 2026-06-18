@@ -1,0 +1,20 @@
+{
+    "name": "geometrydash",
+    "version": "1.0.1",
+    "description": "Geometry Dash tiles, gamemodes, and tools for MakeCode Arcade",
+    "license": "MIT",
+    "dependencies": {
+        "device": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "color": "#FF0088",
+    "supportedTargets": ["arcade"],
+    "targetVersions": {
+        "target": "arcade",
+        "pxt": "8.0.0"
+    }
+}
